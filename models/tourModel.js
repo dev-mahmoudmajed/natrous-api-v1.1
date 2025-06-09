@@ -98,7 +98,19 @@ module.exports = {Tour};
 - Validation Middleware: This middleware runs before data is validated. It can be used to modify the data or add custom validation logic.
 - Connection Middleware: This middleware runs when a connection is established. It can be used to modify the connection or perform actions based on its state.
 - Virtuals Middleware: This middleware runs when virtual properties are accessed. It can be used to modify the virtual properties or perform actions based on their state.
-
-
-
 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
